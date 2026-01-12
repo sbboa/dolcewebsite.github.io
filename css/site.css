@@ -85,6 +85,7 @@
     color: #ffffff;
     padding: 120px 0;
     text-align: center;
+    min-height: 45vh;
   }
   
   .hero h1 {
@@ -177,6 +178,7 @@
     font-size: 0.9rem;
   }
   
+
 
 
 
